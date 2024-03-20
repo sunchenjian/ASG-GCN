@@ -1,1 +1,1 @@
-# ASG-GCN
+This is the source code for the paper "[A novel study for depression detecting using audio signals based on graph neural network](https://www.sciencedirect.com/science/article/abs/pii/S1746809423011084)". You can execute the main.py file to run this code. But before that you need to process the data files to extract features. And it is necessary to pre-train the emotional feature extractor to extract emotional features. The Compact_SER source code is connected as https://github.com/AmirSh15/Compact_SER.
